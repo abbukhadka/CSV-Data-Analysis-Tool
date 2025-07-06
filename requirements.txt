@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-experimental
+langchain-google-genai
+tiktoken
+python-dotenv
+pinecone-client
